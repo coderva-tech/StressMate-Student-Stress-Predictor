@@ -14,10 +14,10 @@ StressMate is an interactive student stress predictor designed to help you under
 ### Developer: coderva-techcreate
 
 ### College/Institution
-[Your College Name]
+[Saintgits College of Engineering]
 
 ### Hosted Project Link
-[Mention your project hosted link here]
+[https://github.com/coderva-tech/StressMate-Student-Stress-Predictor.git]
 
 ### Project Description
 StressMate is an interactive student stress predictor designed to help you understand, track, and manage your stress levels effectively. By analyzing key lifestyle and academic factors such as sleep quality, study load, headaches, academic performance, and extracurricular activities, StressMate provides a personalized stress assessment to support your mental wellness journey.
@@ -36,22 +36,19 @@ StressMate leverages data analysis and machine learning to predict stress levels
 
 **Languages:**
 - Python (Backend, ML Model)
-- JavaScript (Frontend Logic)
 - HTML/CSS (UI)
 - SQL (Database)
 
 **Frameworks & Libraries:**
-- Flask/Django (Backend Framework)
 - React (Frontend Framework)
 - scikit-learn (Machine Learning)
 - pandas & numpy (Data Processing)
 - Plotly (Data Visualization)
-- axios (HTTP Client)
+
 
 **Tools & Platforms:**
 - VS Code (Code Editor)
 - Git & GitHub (Version Control)
-- Docker (Containerization)
 - Jupyter Notebook (Development & Testing)
 - Postman (API Testing)
 
